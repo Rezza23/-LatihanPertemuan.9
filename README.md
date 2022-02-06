@@ -1,4 +1,4 @@
-# Iman Setiawan
+# Tri Reza Oktavian
 
 **Tugas Latihan - Pertemuan 9**\
 **Materi List, Tuple, dan Dictionary**
